@@ -1,0 +1,22 @@
+.test {
+  font-size: 25px;
+  color: blue;
+}
+
+.container_product {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+.container_product .product {
+  align-items: center;
+  text-align: center;
+  width: 550px;
+  height: 550px;
+  background-size: cover;
+  border: 1px solid black;
+}
+.container_product .product .prod_img {
+  width: 200px;
+  height: 200px;
+}/*# sourceMappingURL=main.css.map */
